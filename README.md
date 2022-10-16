@@ -39,7 +39,7 @@ PAM RB
     "expo-updates": "~0.11.6", </br>
     
   <h2>Cara menginstall aplikasi</h2>
-1. Download Aplikasi pada link<br>
+1. Download Aplikasi pada link https://drive.google.com/file/d/1-Bd8V4JaVxalRzOT90sYfjHPCxp7cych/view?usp=sharing <br>
 2. Buka di file manager di ponsel dan temukan file apk yang sudah di download<br>
 3. Install file dengan format .apk<br>
 4. Jalankan aplikasi di handphone
